@@ -14,4 +14,9 @@ Taught by [Prof. Dr. Marwan El-Torki](https://www.linkedin.com/in/marwan-torki-9
 - Block matching
 - Dynamic programming
 
+### [Assignment 4][Assignment-4]
+
+- Tracking object in videos
+
 [Assignment-3]: assignment3/
+[Assignment-4]: assignment4/
