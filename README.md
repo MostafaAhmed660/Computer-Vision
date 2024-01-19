@@ -14,4 +14,4 @@ Taught by [Prof. Dr. Marwan El-Torki](https://www.linkedin.com/in/marwan-torki-9
 - Block matching
 - Dynamic programming
 
-[Assignment-3]: Assignment-3/
+[Assignment-3]: assignment3/
